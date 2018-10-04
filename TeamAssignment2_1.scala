@@ -37,5 +37,4 @@ object TeamAssignment2_1 {
                     }
     writer1.close()
   }
-  
 }
